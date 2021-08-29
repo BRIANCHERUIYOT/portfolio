@@ -21,3 +21,17 @@ color: white;
     color: aqua;
     
 }
+
+#navbarRightAlignExample ul a{
+color: white
+}
+.card-title{
+    color: blue;
+}
+.text{
+    font-size:23px;
+    color: darksalmon;
+}
+.about {
+    color: rgb(20, 36, 4);
+}
