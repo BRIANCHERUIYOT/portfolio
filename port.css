@@ -1,0 +1,19 @@
+body{
+    color: white;
+}
+
+.introduction{
+color: white;
+}
+.brian{
+    /* color:blue; */
+    background-color:rgb(139, 46, 111);
+}
+.image{
+        width: 100%;
+        height: auto;
+        border-radius: 50%; 
+        /* width: 100px;
+        height: 100px; */
+
+}
